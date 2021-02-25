@@ -2,7 +2,8 @@
 tools to support benchmarking
 
 
-random.sh
+random.sh  
+
 This program will run <num-loops> scripts and select which of three scripts to run each time
 based on a percentage for each script
 The three percentage inputs must sum to 100
